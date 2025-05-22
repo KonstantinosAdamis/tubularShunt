@@ -1,5 +1,7 @@
 # tubularShunt
-An app made with kivy for calculating magnitude, phase and bandwidth of a tubular shunt. Tubular shunt is a provision which is used in current measurements
+An app made with kivy for calculating magnitude, phase and bandwidth of a tubular shunt
+
+Tubular shunt is a provision which is used in current measurements.
 
 Note: In order to run the app you must have installed kivy framework
 
